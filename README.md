@@ -1,3 +1,5 @@
+# User Guide
+
 **Some basics**
 
 - [An overview of Metabase](01-what-is-metabase.md)
