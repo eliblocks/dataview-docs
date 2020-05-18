@@ -1,39 +1,31 @@
-## Getting Help
+**Some basics**
 
-#### [FAQs](faq/start.md)
+- [An overview of Metabase](01-what-is-metabase.md)
+- [The basics of databases](02-database-basics.md)
 
-Frequently asked questions about Metabase.
+**Exploring and asking questions**
 
-#### [Troubleshooting Guide](troubleshooting-guide/index.md)
-Have a problem and need help? Start with our troubleshooting guide.
+- [Basic exploration in Metabase](03-basic-exploration.md)
+- [Asking questions in Metabase](04-asking-questions.md)
+- [Using the notebook editor to ask custom questions](custom-questions.md)
+- [Writing custom expressions in the notebook editor](expressions.md)
+- [Using the SQL editor](writing-sql.md)
+- [How to visualize the answers to questions](05-visualizing-results.md)
 
-## In-depth Guides
+**Sharing results**
 
-#### [Users Guide](users-guide/start.md)
-This is the go-to guide on asking questions and sharing answers using Metabase. You'll learn in depth about how questions are expressed, how to chart answers, as well as how to share questions and create dashboards.
+- [Sharing and organizing your saved questions](06-sharing-answers.md)
+- [Creating dashboards](07-dashboards.md)
+- [Adding filters to dashboards](08-dashboard-filters.md)
+- [Creating dashboard charts with multiple series](09-multi-series-charting.md)
+- [Using Pulses for daily emails](10-pulses.md)
+- [Get answers in Slack with Metabot](11-metabot.md)
 
-#### [Admin Guide](administration-guide/start.md)
-This guide is for advanced users and those who will be setting up and maintaining a Metabase installation. You'll learn how to set the instance up, how to configure common settings, how to manage user accounts, and how to add databases.
+**More**
 
-#### [Operations Guide](operations-guide/start.md)
-This guide contains more detailed information about how to install Metabase for production use. It covers topics like SSL termination, deploying via Docker Containers vs. Jars, as well as the tradeoffs involved.
+- [Referencing your data model while writing SQL](12-data-model-reference.md)
+- [Creating SQL Templates](13-sql-parameters.md)
+- [Getting automatic insights with X-rays](14-x-rays.md)
+- [Setting and getting alerts](15-alerts.md)
 
-
-## Enterprise Edition
-
-#### [Enterprise Features Guide](./enterprise-guide/start.md)
-Here’s where to go for help using the features included in the Enterprise Edition of Metabase.
-
-
-## For Developers
-
-#### [Developers Guide](developers-guide.md)
-This guide covers how to contribute back to the Metabase open source project. It includes setting up a development environment, running tests, and the contribution and product process Metabase follows.
-
-#### [Driver Development](developers-guide-drivers.md)
-Want to write your own database driver? This guide lists existing community drivers and shows how to get started with driver development.
-
-## Reference
-
-#### [Anonymous Information Collection Reference](information-collection.md)
-This describes the anonymous usage information we collect (if you opt-in) as well as why we collect it and the ways we use it.
+Let's get started with an overview of [What Metabase does](01-what-is-metabase.md).
